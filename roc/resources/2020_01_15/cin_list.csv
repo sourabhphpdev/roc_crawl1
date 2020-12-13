@@ -1,0 +1,10 @@
+
+U51109KA2012PTC066107,"Message: unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=79.0.3945.79)
+  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.0.0-37-generic x86_64)
+"
+U72200DL2000PLC108985,"Message: chrome not reachable
+  (Session info: chrome=79.0.3945.79)
+  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.0.0-37-generic x86_64)
+"

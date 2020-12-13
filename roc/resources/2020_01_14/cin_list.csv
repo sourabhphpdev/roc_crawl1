@@ -1,0 +1,13 @@
+
+U72900KA2010PTC086596,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))"
+U74140DL2011FTC226246,Success
+U72300DL2007PTC168097,Success
+U64201HR2008PTC053766,Success
+U74900KA2012PTC062482,Success
+U74900MH2015PTC266257,Success
+U93030DL2010PTC198141,Success
+U40100TN2010PTC075961,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))"
+U72200DL2000PLC108985,"Message: timeout
+  (Session info: chrome=79.0.3945.79)
+  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.0.0-37-generic x86_64)
+"

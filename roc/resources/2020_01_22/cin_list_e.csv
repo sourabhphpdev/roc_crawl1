@@ -1,0 +1,12 @@
+U01100HR2019PTC079611,unable to locate input checkbox might be proxy error
+U74900KA2016PTC086752,unable to locate input checkbox might be proxy error
+U74999HR2019PTC077781,"Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.79)
+  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.0.0-37-generic x86_64)
+"
+U74999HR2018PTC074297,"Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=79.0.3945.79)
+  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 5.0.0-37-generic x86_64)
+"

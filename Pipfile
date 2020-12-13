@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+scrapy = "*"
+requests = "*"
+argparse = "*"
+scrapy-beautifulsoup = "*"
+python-dateutil = "*"
+sodapy = "*"
+python-levenshtein = "*"
+psutil = "*"
+selector = "*"
+scrapyd = "*"
+scrapyd-client = "*"
+twisted = "==18.9.0"
+selenium = "*"
+
+
+[requires]
+python_version = "3.6"
+
